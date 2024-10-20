@@ -73,6 +73,8 @@ The artifact I’ve chosen for my Software Design and Engineering category is my
 I chose this artifact because it was one of the first projects I worked on, and it allowed me to showcase how much I have grown throughout my time in the Computer Science program. When I originally worked on this project there was much that I did know about how to make code friendlier to read and understand for others. I’ve also learned more about industry best practices and how to apply them. For my enhancement, I’ve chosen to convert the original Java code to Python. I chose this because Python is the most popular coding language and because it’s the language that we have used the least throughout the Computer Science program. As such I wanted to showcase my versatility by re-writing the application in Python. Finally, using Python provides cleaner, more efficient code that is also easier to read than Java for this project. 
 </p>
 
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Software%20Design%20and%20Engineering/CS499_Software_Design_and_Engineering_Narrative_Sheel_Patel.docx)
+
   - [Original Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Software%20Design%20and%20Engineering/IT145_RescueAnimal_Original) (View the directory containing the original Java code)
   - [Final Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Software%20Design%20and%20Engineering/IT145_RescueAnimal_Enhancement) (View the directory containing the final Python code)
   <br><br>
@@ -119,6 +121,7 @@ The artifact I’ve chosen for my Algorithms and Data Structures category is my 
 I chose this artifact because it was one of the projects I most enjoyed during my time in the Computer Science program. I also chose it because I work on GPUs so I found this project especially interesting. Although I took this course recently, I have still though of way I can improve on the original code already. For my enhancement, I have chosen to convert some of the previous code I had written for creating objects into separate functions that can be used to repeatedly create objects. I’ve also added additional objects and created functions for adding them into the scene. As you’ll see in the original scene vs the enhanced scene, there are many objects in the scene which are repetitive. As such it is ideal to create a function which can be used to create those objects. Understanding how and when to do is very important to my development as a software developer. Creating functions for repetitive code means our code will be cleaner, more efficient, and take less time to develop or adjust.
 </p>
 
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Algorithms%20and%20Data%20Structures/CS499_Algorithms_and_Data_Structures_Narrative_Sheel_Patel.docx)
 
   - [Original Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Algorithms%20and%20Data%20Structures/CS330_3D_Scene_Original) (View the directory containing the original project files.)
   - [Original Build Code](Algorithms and Data Structures\CS330_3D_Scene_Original\CS330_3D_Scene_Original\Source\SceneManager.cpp) (View the original code here.)
@@ -187,6 +190,7 @@ The artifact I’ve chosen for my Databases category is the text-based game whic
 I chose this artifact because it was the very first code that I wrote. I thought it would be another good showcase of how I have evolved as a developer. When I first wrote this code, I was only thinking about the end goal and put no consideration into things like security. For my enhancement, I have chosen to add a database for storing high scores. The original game didn’t have a scoring system, so I also had to add that. Additionally, due to storing the high scores in a json file, I added encryption and decryption using a key, so the scores are safely stored. This also required the creation of a main menu so user could navigate to the high scores or to the game. The high scores themselves are calculated as the time left after the user has won the game. 
 </p>
 
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Databases/CS499_Databases_Narrative_Sheel_Patel.docx)
 
   - [Original Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Databases/IT140_Text_Game_Original) (View the directory containing the original project files.)
   - [Original Build Code](Databases\IT140_Text_Game_Original\IT140_Text_Game_Sheel_Patel.py) (View the original code here.)
