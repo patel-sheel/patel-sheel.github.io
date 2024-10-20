@@ -53,7 +53,7 @@ My code review video goes over all three of the artifacts I have chosen for my e
   - Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
   - Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
 
-<div style="text-align: center;">
+<div class="videoWrapper">
   <iframe width="900" height="480" src="https://www.youtube.com/embed/St92ioaJhDA?si=4lK0p8VIDK76eR3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
