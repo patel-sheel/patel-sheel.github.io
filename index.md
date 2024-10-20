@@ -10,7 +10,7 @@ Throughout my journey in the Computer Science program at Southern New Hampshire 
 </p>
 
 <p style="text-indent: 55px;">
-Outside of the artifacts which are showcased in my portfolio, there are several projects throughout my time in the Computer Science program which have greatly contributed to my growth as a developer. When I first began this program, I believed that software development was just coding. However, after going through the courses in this program, I have come to realize there is far more to software development than just coding. I gained insight into the collaboration needed in the Software Development Lifecycle (SDLC) as I worked on the final project for CS250 – SDLC. My work in CS-370: Current and Emerging Trends taught me the fundamentals of training machine learning models and introduced a new perspective on identifying areas where artificial intelligence could be applied effectively. My research on AlphaGo Zero was particularly impactful, fundamentally shifting my understanding of the potential applications of AI and machine learning.
+Outside of the artifacts which are showcased in my portfolio, there are several projects throughout my time in the Computer Science program which have greatly contributed to my growth as a developer. When I first began this program, I believed that software development was just coding. However, after going through the courses in this program, I have come to realize there is far more to software development than just coding. I gained insight into the collaboration needed in the Software Development Lifecycle (SDLC) as I worked on the final project for CS250 - Software Development Lifecycle. My work in CS370 - Current and Emerging Trends taught me the fundamentals of training machine learning models and introduced a new perspective on identifying areas where artificial intelligence could be applied effectively. My research on AlphaGo Zero was particularly impactful, fundamentally shifting my understanding of the potential applications of AI and machine learning.
 </p>
 
 <p style="text-indent: 55px;">
@@ -33,6 +33,7 @@ Overall, my professional self-assessment and the artifacts in my ePortfolio are 
 <p style="text-indent: 55px;">
 Throughout my ePortfolio I showcase some of my skills and learnings which include the following:
 </p>
+
   - I employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
   - I design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
   - I design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
