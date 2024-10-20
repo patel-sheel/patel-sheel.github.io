@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+C:\Users\xxbla\OneDrive\Documents\SNHU\CS499\Module_4\CS330_2D_Scene_Conversion_Enhancement\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xxbla\OneDrive\Documents\SNHU\CS499\Module_4\CS330_2D_Scene_Conversion_Enhancement\Source\SceneManager.cpp(318,27): warning C4305: '=': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\xxbla\OneDrive\Documents\SNHU\CS499\Module_4\CS330_2D_Scene_Conversion_Enhancement\Debug\7-1_FinalProjectMilestones.exe
