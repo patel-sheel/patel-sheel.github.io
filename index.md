@@ -31,7 +31,7 @@ Overall, my professional self-assessment and the artifacts in my ePortfolio are 
 ## **Course Outcomes**
 
 <p style="text-indent: 55px;">
-Throughout my ePortfolio within my artifacts and additionally each narrative I showcase a portion of my skills and knowledge including the following outcomes:
+Throughout my ePortfolio I showcase some of my skills and learnings which include the following:
 </p>
   - I employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
   - I design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
