@@ -147,7 +147,7 @@ I chose this artifact because it was one of the projects I most enjoyed during m
 
 <div style="text-align: center;">
     <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code1.png" target="_blank">
-		<img src="assets\images\CS330_Enhanced_Code2.png" width="720px" title="Enahnced Code1" />
+		<img src="assets\images\CS330_Enhanced_Code1.png" width="720px" title="Enahnced Code1" />
 	</a>
     <p><em>Figure 6 - Function for creating platforms</em></p>
 </div>
@@ -186,10 +186,10 @@ The artifact I’ve chosen for my Databases category is the text-based game whic
 I chose this artifact because it was the very first code that I wrote. I thought it would be another good showcase of how I have evolved as a developer. When I first wrote this code, I was only thinking about the end goal and put no consideration into things like security. For my enhancement, I have chosen to add a database for storing high scores. The original game didn’t have a scoring system, so I also had to add that. Additionally, due to storing the high scores in a json file, I added encryption and decryption using a key, so the scores are safely stored. This also required the creation of a main menu so user could navigate to the high scores or to the game. The high scores themselves are calculated as the time left after the user has won the game. 
 </p>
 
-  - [Original Build Files]() (View the directory containing the original project files.)
-  - [Original Build Code]() (View the original code here.)
-  - [Final Build Files]() (View the directory containing the final project files.)
-  - [Final Build Code]() (View the final code here.)
+  - [Original Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Databases/IT140_Text_Game_Original) (View the directory containing the original project files.)
+  - [Original Build Code](Databases\IT140_Text_Game_Original\IT140_Text_Game_Sheel_Patel.py) (View the original code here.)
+  - [Final Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Databases/IT140_Text_Game_Enhanced) (View the directory containing the final project files.)
+  - [Final Build Code](Databases\IT140_Text_Game_Enhanced\IT140_Text_Game_Sheel_Patel.py) (View the final code here.)
 
 <div style="text-align: center;">
     <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT140_Enhanced_Code.png" target="_blank">
