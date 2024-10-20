@@ -29,8 +29,10 @@ Overall, my professional self-assessment and the artifacts in my ePortfolio are 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Course Outcomes**
-### Throughout my ePortfolio within my artifacts and additionally each narrative I showcase a portion of my skills and knowledge including the following outcomes:
 
+<p style="text-indent: 55px;">
+Throughout my ePortfolio within my artifacts and additionally each narrative I showcase a portion of my skills and knowledge including the following outcomes:
+</p>
   - I employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
   - I design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
   - I design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
@@ -51,7 +53,7 @@ My code review video goes over all three of the artifacts I have chosen for my e
   - Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
   - Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
 
-<iframe align="center" width="900" height="480" src="https://youtu.be/St92ioaJhDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe-align="center" width="900" height="480" src="https://www.youtube.com/watch?v=St92ioaJhDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -68,16 +70,21 @@ The artifact I’ve chosen for my Software Design and Engineering category is my
 I chose this artifact because it was one of the first projects I worked on, and it allowed me to showcase how much I have grown throughout my time in the Computer Science program. When I originally worked on this project there was much that I did know about how to make code friendlier to read and understand for others. I’ve also learned more about industry best practices and how to apply them. For my enhancement, I’ve chosen to convert the original Java code to Python. I chose this because Python is the most popular coding language and because it’s the language that we have used the least throughout the Computer Science program. As such I wanted to showcase my versatility by re-writing the application in Python. Finally, using Python provides cleaner, more efficient code that is also easier to read than Java for this project. 
 </p>
 
-  - [Original Build Files]() (View the directory containing the original .cpp, and project files.)
-  - [Original Build Code]() (View the original)
-  - [Final Build Files]() (View the directory containing the final .cpp and project files.)
-  - [Final Build Code]() (View the final builds)
+  - [Original Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Software%20Design%20and%20Engineering/IT145_RescueAnimal_Original) (View the directory containing the original Java code)
+  - [Final Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Software%20Design%20and%20Engineering/IT145_RescueAnimal_Enhancement) (View the directory containing the final Python code)
   <br><br>
 <div style="text-align: center;">
-    <a href="" target="_blank">
-		<img src="" width="720px" title="" />
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT145_Java_Example.png target="_blank">
+		<img src="assets\images\IT145_Java_Example.png" width="720px" title="Java Code" />
 	</a>
-    <p><em>Figure 1 </em></p>
+    <p><em>Figure 1 - Original Java Code</em></p>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT145_Python_Example.png target="_blank">
+		<img src="assets\images\IT145_Python_Example.png" width="720px" title="Java Code" />
+	</a>
+    <p><em>Figure 1 - Enhanced Python Code</em></p>
 </div>
 
 ### Conclusion:
@@ -95,7 +102,7 @@ The changes I have made and documentation I have provided directly apply to a co
 As I went through the process of converting the code from Java to Python, there were some lessons I learned and some challenges which I faced. I learned the importance of future proofing and writing for collaboration as I read through the old code and the comments I had made. I realized that 2 years later, the comments weren’t as obvious as I once thought. I gained a better understanding of the importance of input validation and error handling as I tested the old code and saw the different issues which existed. Finally, I learned how powerful Python is while being so simple to write. It allows developers to focus more on what they are trying to do rather than focusing on avoiding syntactical errors that could cost them hours locating later during debugging. As I mentioned, I also faced some challenges when rewriting the code from Java to Python. I have some experience with Python but I had not created a multi-class python script so I had to do some research on how that could be done. There was also a lot of syntax that I didn’t know which led to me doing a lot of research to find out how something done in Java is done in Python. I started by creating the code in Python almost line for line. I then went back and reviewed it to determine how I could make it more efficient and add more enhancements. Looking back on it, I could have done a better job in the planning stage of adding the additional enhancements and removing redundancies. However, not doing so provided me with an opportunity to further exercise my ability to write code in Python, so it was not a complete loss. Facing these challenges allowed me to learn a great deal and I believe I am a better developer for having gone through them. 
 </p>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Artifact 2 Algorithms and Data Structures**
 ### Introduction:
@@ -110,16 +117,44 @@ I chose this artifact because it was one of the projects I most enjoyed during m
 </p>
 
 
-  - [Original Build Files]() (View the directory containing the original project files.)
-  - [Original Build Code]() (View the original code here.)
-  - [Final Build Files]() (View the directory containing the final project files.)
-  - [Final Build Code]() (View the final doe here.)
+  - [Original Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Algorithms%20and%20Data%20Structures/CS330_3D_Scene_Original) (View the directory containing the original project files.)
+  - [Original Build Code](Algorithms and Data Structures\CS330_3D_Scene_Original\CS330_3D_Scene_Original\Source\SceneManager.cpp) (View the original code here.)
+  - [Final Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Algorithms%20and%20Data%20Structures/CS330_3D_Scene_Enhanced) (View the directory containing the final project files.)
+  - [Final Build Code](Algorithms and Data Structures\CS330_3D_Scene_Enhanced\CS330_3D_Scene_Enhancement\Source\SceneManager.cpp) (View the final code here.)
 
 <div style="text-align: center;">
-    <a href="" target="_blank">
-		<img src="" width="720px" title="" />
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Source.jpg" target="_blank">
+		<img src="assets\images\CS330_Source.jpg" width="720px" title="Yoshi's Island Scene" />
 	</a>
-    <p><em>Figure 2 </em></p>
+    <p><em>Figure 3 - The 2D scene from Yoshi's Island which I attempted to recreate in 3D</em></p>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Original_Scene.jpg" target="_blank">
+		<img src="assets\images\CS330_Original.png" width="720px" title="Original Scene" />
+	</a>
+    <p><em>Figure 4 - Original 3D Scene</em></p>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Scene.jpg" target="_blank">
+		<img src="assets\images\CS330_Enhanced_Scene.png" width="720px" title="Enahnced Scene" />
+	</a>
+    <p><em>Figure 5 - Enhanced 3D Scene</em></p>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code1.jpg" target="_blank">
+		<img src="assets\images\CS330_Enhanced_Code2.png" width="720px" title="Enahnced Code1" />
+	</a>
+    <p><em>Figure 6 - Function for creating platforms</em></p>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code2.jpg" target="_blank">
+		<img src="assets\images\CS330_Enhanced_Code2.png" width="720px" title="Enahnced Code2" />
+	</a>
+    <p><em>Figure 7 - Function calls used to create scene</em></p>
 </div>
 
 ### Conclusion:
@@ -138,7 +173,6 @@ As I went through the process of enhancing my scene render to more of the scene 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Artifact 3 Databases**
 ### Introduction:
 
@@ -156,10 +190,10 @@ I chose this artifact because it was the very first code that I wrote. I thought
   - [Final Build Code]() (View the final code here.)
 
 <div style="text-align: center;">
-    <a href="" target="_blank">
-		<img src="" width="720px" title="" />
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT140_Enhanced_Code.png" target="_blank">
+		<img src="assets/images/IT140_Enhanced_Code.png" width="720px" title="Enhanced Game" />
 	</a>
-    <p><em>Figure 3</em></p>
+    <p><em>Figure 8 - Enhanced Python code with encryption and decryption for high score file</em></p>
 </div>
 
 ### Conclusion:
@@ -173,5 +207,5 @@ The changes I implemented in my enhancement directly apply to the course outcome
 </p>
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
