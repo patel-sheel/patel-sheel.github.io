@@ -53,10 +53,10 @@ My code review video goes over all three of the artifacts I have chosen for my e
   - Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
   - Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
 
-<iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/St92ioaJhDA?si=4lK0p8VIDK76eR3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="900" height="480" src="https://www.youtube.com/embed/St92ioaJhDA?si=4lK0p8VIDK76eR3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ## **Artifact 1 Software Engineering and Design**
 ### Introduction:
@@ -74,17 +74,17 @@ I chose this artifact because it was one of the first projects I worked on, and 
   - [Final Build Files](https://github.com/patel-sheel/patel-sheel.github.io/tree/main/Software%20Design%20and%20Engineering/IT145_RescueAnimal_Enhancement) (View the directory containing the final Python code)
   <br><br>
 <div style="text-align: center;">
-    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT145_Java_Example.png target="_blank">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT145_Java_Example.png" target="_blank">
 		<img src="assets\images\IT145_Java_Example.png" width="720px" title="Java Code" />
 	</a>
     <p><em>Figure 1 - Original Java Code</em></p>
 </div>
 
 <div style="text-align: center;">
-    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT145_Python_Example.png target="_blank">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/IT145_Python_Example.png" target="_blank">
 		<img src="assets\images\IT145_Python_Example.png" width="720px" title="Java Code" />
 	</a>
-    <p><em>Figure 1 - Enhanced Python Code</em></p>
+    <p><em>Figure 2 - Enhanced Python Code</em></p>
 </div>
 
 ### Conclusion:
@@ -130,28 +130,28 @@ I chose this artifact because it was one of the projects I most enjoyed during m
 </div>
 
 <div style="text-align: center;">
-    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Original_Scene.jpg" target="_blank">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Original_Scene.png" target="_blank">
 		<img src="assets\images\CS330_Original.png" width="720px" title="Original Scene" />
 	</a>
     <p><em>Figure 4 - Original 3D Scene</em></p>
 </div>
 
 <div style="text-align: center;">
-    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Scene.jpg" target="_blank">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Scene.png" target="_blank">
 		<img src="assets\images\CS330_Enhanced_Scene.png" width="720px" title="Enahnced Scene" />
 	</a>
     <p><em>Figure 5 - Enhanced 3D Scene</em></p>
 </div>
 
 <div style="text-align: center;">
-    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code1.jpg" target="_blank">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code1.png" target="_blank">
 		<img src="assets\images\CS330_Enhanced_Code2.png" width="720px" title="Enahnced Code1" />
 	</a>
     <p><em>Figure 6 - Function for creating platforms</em></p>
 </div>
 
 <div style="text-align: center;">
-    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code2.jpg" target="_blank">
+    <a href="https://github.com/patel-sheel/patel-sheel.github.io/blob/main/assets/images/CS330_Enhanced_Code2.png" target="_blank">
 		<img src="assets\images\CS330_Enhanced_Code2.png" width="720px" title="Enahnced Code2" />
 	</a>
     <p><em>Figure 7 - Function calls used to create scene</em></p>
